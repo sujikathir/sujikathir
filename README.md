@@ -6,7 +6,9 @@ I love exploring how AI can solve real-world problems and create new possibiliti
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 🔭 I hold a Masters Degree in Business Analytics with a specialisation in Data Science from UT Dallas. 
+
 I have 3+ years of experience building and deploying machine learning and deep learning models.
+
 I have a strong practical and theoretical experience in the development of __Large Language Models (LLMs)__ and __Generative AI__. 
 
 
