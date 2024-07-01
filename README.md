@@ -5,7 +5,7 @@ I'm passionate about __Machine Learning__, __Data Science__, __Large Language Mo
 I love exploring how AI can solve real-world problems and create new possibilities. Always excited to learn and share cool projects!
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
-🔭 I hold a Masters Degree in Business Analytics with a specialisation in Data Science from UT Dallas. 
+🔭 I hold a Masters Degree in Business Analytics with a specialisation in Data Science from UT Dallas and
 
 I have 3+ years of experience building and deploying machine learning and deep learning models.
 
