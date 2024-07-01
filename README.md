@@ -5,7 +5,7 @@ I'm passionate about __Machine Learning__, __Data Science__, __Large Language Mo
 I love exploring how AI can solve real-world problems and create new possibilities. Always excited to learn and share cool projects!
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
-I hold a Masters Degree in Business Analytics with a specialisation in Data Science from [__UT Dallas - Jindal School of Management__](https://www.utdallas.edu/).
+I hold a Masters Degree in Business Analytics with a specialisation in Data Science from [__UT Dallas - Jindal School of Management__](https://www.utdallas.edu/)*.
 I have 3+ years of experience building and deploying machine learning and deep learning models.
 
 Furthermore, I have a strong practical and theoretical experience in the development of Large Language Models (LLMs) and Generative AI.
@@ -13,8 +13,8 @@ Furthermore, I have a strong practical and theoretical experience in the develop
 🔭 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: 
 * *Machine Learning Certification by [__Stanford University__](https://www.stanford.edu/)*
 * *Deep Learning Specialization by [__Andrew Ng__](https://www.andrewng.org/)*
-* *Data Science Professional Certificate by [__IBM__] [https://www.coursera.org/professional-certificates/ibm-data-science]
-* *Python for Everybody Specialization by [__University of Michigan__][https://online.umich.edu/series/python-for-everybody/]
+* *Data Science Professional Certificate by [__IBM__](https://www.coursera.org/professional-certificates/ibm-data-science)*
+* *Python for Everybody Specialization by [__University of Michigan__](https://online.umich.edu/series/python-for-everybody/)*
 
 🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
 
