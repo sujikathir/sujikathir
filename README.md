@@ -10,12 +10,11 @@ I have 3+ years of experience building and deploying machine learning and deep l
 
 Furthermore, I have a strong practical and theoretical experience in the development of Large Language Models (LLMs) and Generative AI.
 
-🔭 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include:
-
-Machine Learning Certification by Stanford University
-Deep Learning Specialization by Andrew Ng
-Data Science Professional Certificate by IBM
-Python for Everybody Specialization
+🔭 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: 
+* *Machine Learning Certification by [__Stanford University__](https://www.stanford.edu/)*
+* *Deep Learning Specialization by [__Andrew Ng__](https://www.andrewng.org/)*
+* *Data Science Professional Certificate by [__IBM__] [https://www.coursera.org/professional-certificates/ibm-data-science]
+* *Python for Everybody Specialization by [__University of Michigan__][https://online.umich.edu/series/python-for-everybody/]
 
 🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
 
