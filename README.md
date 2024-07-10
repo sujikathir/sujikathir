@@ -71,9 +71,9 @@ I encourage you to explore my machine learning and deep learning projects. The f
 
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
 
-| 🏥 [Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning]([https://github.com/suhasmaddali/health_assistant](https://github.com/sujikathir/Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning))|
+| 🚀 [Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning]([https://github.com/suhasmaddali/health_assistant](https://github.com/sujikathir/Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning))|
 | :-:| 
-| [<img src = "[(https://github.com/sujikathir/Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning/blob/main/images/Cover%20page.avif]" width = 500 height = 300/>]([https://github.com/suhasmaddali/health_assistant](https://github.com/sujikathir/Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning))| 
+| [<img src = "[https://github.com/sujikathir/Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning/blob/main/images/cover%20page.jpg]" width = 500 height = 300/>]([https://github.com/suhasmaddali/health_assistant](https://github.com/sujikathir/Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning))| 
 
 
 
