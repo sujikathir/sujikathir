@@ -74,4 +74,4 @@ The following links include detailed descriptions within each GitHub repository:
 
 | 🏦 [HR-Job-Market-Analysis-using-Light-GBM](https://github.com/sujikathir/HR-Job-Market-Analysis-using-Light-GBM)| 
 | :-:| :-:| 
-| [<img src = "[https://github.com/sujikathir/HR-Job-Market-Analysis-using-Light-GBM/blob/main/source/cover%20pic.jpg]" width = 500 height = 300/>](https://github.com/sujikathir/HR-Job-Market-Analysis-using-Light-GBM)
+| [<img src = "https://github.com/sujikathir/HR-Job-Market-Analysis-using-Light-GBM/blob/main/source/cover%20pic.jpg" width = 500 height = 300/>](https://github.com/sujikathir/HR-Job-Market-Analysis-using-Light-GBM)
