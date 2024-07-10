@@ -82,7 +82,8 @@ The following links include detailed descriptions within each GitHub repository:
 <h2 align = "center"> 🖥 My Generative AI Projects </h2> 
 
 | ⛁ [AI-driven-Chatbot-for-enhanced-question-answering-system](https://github.com/sujikathir/Ai-driven-Chatbot-for-enhanced-question-answering-system/tree/main) | 
-| [<img src = "https://github.com/sujikathir/Ai-driven-Chatbot-for-enhanced-question-answering-system/blob/main/source/cover%20page.jpg" height = 300 width = 500/>](https://github.com/sujikathir/Ai-driven-Chatbot-for-enhanced-question-answering-system/tree/main))| 
+| :-:|
+[<img src = "https://github.com/sujikathir/Ai-driven-Chatbot-for-enhanced-question-answering-system/blob/main/source/cover%20page.jpg" height = 300 width = 500/>](https://github.com/sujikathir/Ai-driven-Chatbot-for-enhanced-question-answering-system/tree/main))| 
 
 <hr style="border:0.01px solid blue">
 
