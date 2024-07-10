@@ -74,3 +74,11 @@ The following links include detailed descriptions within each GitHub repository:
 | 🏭 [World-Development-Indicators-Co2-Emission-Vs-GDP](https://github.com/sujikathir/World-Development-Indicators-Co2-Emission-Vs-GDP)| [☎️ __Telco Customer Churn Prediction__](https://github.com/sujikathir/Telco-Customer-Churn-Prediction)|
 | :-:| :-:| 
 | [<img src = "https://github.com/sujikathir/World-Development-Indicators-Co2-Emission-Vs-GDP/blob/main/images/main%20image.png" width = 500 height = 300/>](https://github.com/sujikathir/World-Development-Indicators-Co2-Emission-Vs-GDP)| [<img src = "https://github.com/sujikathir/Telco-Customer-Churn-Prediction/blob/main/Images/Cover%20pic.jpg" width = 500 height = 300/>](https://github.com/sujikathir/Telco-Customer-Churn-Prediction)|
+
+<hr style="border:0.01px solid blue">
+
+<h2 align = "center"> 🖥 My AWS Projects</h2> 
+
+| ⛁ [Create-Database-and-Tables-using-Athena](https://github.com/sujikathir/Create-a-Database-and-Tables-using-Athena)| 💻 [Using-AWS-S3-for-Data-Storage](https://github.com/sujikathir/Using-AWS-S3-for-Data-Storage) | 
+| :-:| :-:| 
+| [<img src = "https://github.com/sujikathir/Create-a-Database-and-Tables-using-Athena/blob/main/source/Cover%20pic.png" height = 300 width = 500/>](https://github.com/sujikathir/Create-a-Database-and-Tables-using-Athena/tree/main)| [<img src="https://github.com/sujikathir/Using-AWS-S3-for-Data-Storage/blob/main/s3/cover%20page.png" height = 300 width = 500/>](https://github.com/sujikathir/Using-AWS-S3-for-Data-Storage)|
