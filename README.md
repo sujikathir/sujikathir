@@ -67,6 +67,10 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 The following links include detailed descriptions within each GitHub repository:
 
-| 🚀 [Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning](https://github.com/sujikathir/Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning))| [HR-Job-Market-Analysis-using-Light-GBM](https://github.com/sujikathir/HR-Job-Market-Analysis-using-Light-GBM)| 
+| 🚀 [Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning](https://github.com/sujikathir/Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning))| 👨🏻‍💻 [HR-Job-Market-Analysis-using-Light-GBM](https://github.com/sujikathir/HR-Job-Market-Analysis-using-Light-GBM)| 
 | :-:| :-:| 
 | [<img src = "https://github.com/sujikathir/Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning/blob/main/images/cover%20page.jpg" width = 500 height = 300/>](https://github.com/sujikathir/Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning)| [<img src = "https://github.com/sujikathir/HR-Job-Market-Analysis-using-Light-GBM/blob/main/source/cover%20pic.jpg" width = 500 height = 300/>](https://github.com/sujikathir/HR-Job-Market-Analysis-using-Light-GBM)
+
+| 🏭 [World-Development-Indicators-Co2-Emission-Vs-GDP](https://github.com/sujikathir/World-Development-Indicators-Co2-Emission-Vs-GDP)| [☎️ __Telco Customer Churn Prediction__](https://github.com/sujikathir/Telco-Customer-Churn-Prediction)|
+| :-:| :-:| 
+| [<img src = "https://github.com/sujikathir/World-Development-Indicators-Co2-Emission-Vs-GDP/blob/main/images/main%20image.png" width = 500 height = 300/>](https://github.com/sujikathir/World-Development-Indicators-Co2-Emission-Vs-GDP)| [<img src = "https://github.com/sujikathir/Telco-Customer-Churn-Prediction/blob/main/Images/Cover%20pic.jpg" width = 500 height = 300/>](https://github.com/sujikathir/Telco-Customer-Churn-Prediction)|
