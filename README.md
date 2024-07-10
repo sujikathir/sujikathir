@@ -67,13 +67,13 @@ My Projects:
 
 I encourage you to explore my machine learning and deep learning projects. The following links include detailed descriptions within each GitHub repository:
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/New%20Intro%20Gif%20Image.gif" width = 1000 height = 400/>
+<img src = "[https://github.com/suhasmaddali/Images/blob/main/New%20Intro%20Gif%20Image.gif](https://github.com/sujikathir/sujikathir/blob/main/Portfolio%20Cover%20photo.jpg)" width = 1000 height = 400/>
 
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
 
 | 🚀 [Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning]([https://github.com/suhasmaddali/health_assistant](https://github.com/sujikathir/Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning))|
 | :-:| 
-| [<img src = "[https://github.com/sujikathir/Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning/blob/main/images/cover%20page.jpg]" width = 500 height = 300/>]([https://github.com/suhasmaddali/health_assistant](https://github.com/sujikathir/Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning))| 
+| [<img src = "https://github.com/sujikathir/Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning/blob/main/images/cover%20page.jpg" width = 500 height = 300/>]([https://github.com/suhasmaddali/health_assistant](https://github.com/sujikathir/Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning))| 
 
 
 
