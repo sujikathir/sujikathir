@@ -81,4 +81,4 @@ The following links include detailed descriptions within each GitHub repository:
 
 | ⛁ [Create-Database-and-Tables-using-Athena](https://github.com/sujikathir/Create-a-Database-and-Tables-using-Athena)| 💻 [Using-AWS-S3-for-Data-Storage](https://github.com/sujikathir/Using-AWS-S3-for-Data-Storage) | 
 | :-:| :-:| 
-| [<img src = "https://github.com/sujikathir/Create-a-Database-and-Tables-using-Athena/blob/main/source/Cover%20pic.png" height = 300 width = 500/>](https://github.com/sujikathir/Create-a-Database-and-Tables-using-Athena/tree/main)| [<img src="https://github.com/sujikathir/Using-AWS-S3-for-Data-Storage/blob/main/s3/cover%20page.png" height = 300 width = 500/>](https://github.com/sujikathir/Using-AWS-S3-for-Data-Storage)|
+| [<img src = "https://github.com/sujikathir/Create-a-Database-and-Tables-using-Athena/blob/main/source/Cover%20pic.png" height = 300 width = 500/>](https://github.com/sujikathir/Create-a-Database-and-Tables-using-Athena/tree/main)| [<img src="https://github.com/sujikathir/Using-AWS-S3-for-Data-Storage/blob/main/s3/images/cover%20page.png" height = 300 width = 500/>](https://github.com/sujikathir/Using-AWS-S3-for-Data-Storage)|
