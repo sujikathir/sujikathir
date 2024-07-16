@@ -90,3 +90,13 @@ The following links include detailed descriptions within each GitHub repository:
 | ⛁ [Create-Database-and-Tables-using-Athena](https://github.com/sujikathir/Create-a-Database-and-Tables-using-Athena)| 💻 [Using-AWS-S3-for-Data-Storage](https://github.com/sujikathir/Using-AWS-S3-for-Data-Storage) | 
 | :-:| :-:| 
 | [<img src = "https://github.com/sujikathir/Create-a-Database-and-Tables-using-Athena/blob/main/source/Cover%20pic.png" height = 300 width = 500/>](https://github.com/sujikathir/Create-a-Database-and-Tables-using-Athena/tree/main)| [<img src="https://github.com/sujikathir/Using-AWS-S3-for-Data-Storage/blob/main/s3/images/cover%20page.png" height = 300 width = 500/>](https://github.com/sujikathir/Using-AWS-S3-for-Data-Storage)|
+
+<h2 align = "center"> 🖥 My Technical Blogs </h2> 
+
+&emsp;&emsp; 📃 [__Demystifying P-Values: A Guide for Non-Technical Stakeholders__](https://medium.com/@sujithra-kathiravan/demystifying-p-values-a-guide-for-non-technical-stakeholders-fc45c854f2ca)
+
+&emsp;&emsp; 📃 [__Understanding Type I and Type II Errors in Hypothesis Testing: A Data Scientist’s Perspective__](https://medium.com/@sujithra-kathiravan/understanding-type-i-and-type-ii-errors-in-hypothesis-testing-a-data-scientists-perspective-2e508b2d50c1)
+
+&emsp;&emsp; 📃 [__Head start your Machine Learning Journey!🚀__](https://medium.com/@sujithra-kathiravan/head-start-your-machine-learning-journey-c4f96735d8e3)
+
+&emsp;&emsp; 📃 [__All about Data Preprocessing__](https://medium.com/@sujithra-kathiravan/all-about-data-preprocessing-7ec219b39e5e)
