@@ -90,6 +90,12 @@ The following links include detailed descriptions within each GitHub repository:
 | ⛁ [Nutritionist-Generative-AI-Doctor-Using-Google-Gemini-Pro-Vision](https://github.com/sujikathir/Nutritionist-Generative-AI-Doctor-Using-Google-Gemini-Pro-Vision/tree/main) | [Multi-Language-Invoice-Extractor-using-Gemini-Pro-LLM-Model](https://github.com/sujikathir/Multi-Language-Invoice-Extractor-using-Gemini-Pro-LLM-Model) | 
 | :-:| :-:| 
 [<img src = "https://github.com/sujikathir/Nutritionist-Generative-AI-Doctor-Using-Google-Gemini-Pro-Vision/blob/main/source/cover%20pic.png" height = 300 width = 500/>](https://github.com/sujikathir/Nutritionist-Generative-AI-Doctor-Using-Google-Gemini-Pro-Vision/tree/main)| [<img src="https://github.com/sujikathir/Multi-Language-Invoice-Extractor-using-Gemini-Pro-LLM-Model/blob/main/source/cover%20pic.jpg" height = 300 width = 500/>](https://github.com/sujikathir/Multi-Language-Invoice-Extractor-using-Gemini-Pro-LLM-Model) |
+
+| ⛁ [Youtube-Video-Transcribe-Summarizer-LLM-App-With-Google-Gemini-Pro](https://github.com/sujikathir/Youtube-Video-Transcribe-Summarizer-LLM-App-With-Google-Gemini-Pro) | [Resume-Application-Tracking-System-ATS-Using-Google-Gemini-Pro-Vision](https://github.com/sujikathir/Resume-Application-Tracking-System-ATS-Using-Google-Gemini-Pro-Vision) | 
+| :-:| :-:| 
+[<img src = "https://github.com/sujikathir/Youtube-Video-Transcribe-Summarizer-LLM-App-With-Google-Gemini-Pro/blob/main/source/cover%20pic.png" height = 300 width = 500/>](https://github.com/sujikathir/Youtube-Video-Transcribe-Summarizer-LLM-App-With-Google-Gemini-Pro)| [<img src="https://github.com/sujikathir/Resume-Application-Tracking-System-ATS-Using-Google-Gemini-Pro-Vision/blob/main/source/cover%20pic.jpg" height = 300 width = 500/>](https://github.com/sujikathir/Resume-Application-Tracking-System-ATS-Using-Google-Gemini-Pro-Vision) |
+
+
 <hr style="border:0.01px solid blue">
 
 <h2 align = "center"> 🖥 My AWS Projects</h2> 
