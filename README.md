@@ -87,6 +87,9 @@ The following links include detailed descriptions within each GitHub repository:
 | :-:| :-:| 
 [<img src = "https://github.com/sujikathir/News-Reporter-AI-Agent-Using-CrewAI/blob/main/source/cover%20pic.jpg" height = 300 width = 500/>](https://github.com/sujikathir/News-Reporter-AI-Agent-Using-CrewAI)| [<img src="https://github.com/sujikathir/Finetuning-With-Custom-Data-Using-Google-Gemma/blob/main/source/cover%20pic.jpeg" height = 300 width = 500/>](https://github.com/sujikathir/Finetuning-With-Custom-Data-Using-Google-Gemma) |
 
+| ⛁ [Nutritionist-Generative-AI-Doctor-Using-Google-Gemini-Pro-Vision](https://github.com/sujikathir/Nutritionist-Generative-AI-Doctor-Using-Google-Gemini-Pro-Vision/tree/main) | [Multi-Language-Invoice-Extractor-using-Gemini-Pro-LLM-Model](https://github.com/sujikathir/Multi-Language-Invoice-Extractor-using-Gemini-Pro-LLM-Model) | 
+| :-:| :-:| 
+[<img src = "https://github.com/sujikathir/Nutritionist-Generative-AI-Doctor-Using-Google-Gemini-Pro-Vision/blob/main/source/cover%20pic.png" height = 300 width = 500/>](https://github.com/sujikathir/Nutritionist-Generative-AI-Doctor-Using-Google-Gemini-Pro-Vision/tree/main)| [<img src="https://github.com/sujikathir/Multi-Language-Invoice-Extractor-using-Gemini-Pro-LLM-Model/blob/main/source/cover%20pic.jpg" height = 300 width = 500/>](https://github.com/sujikathir/Multi-Language-Invoice-Extractor-using-Gemini-Pro-LLM-Model) |
 <hr style="border:0.01px solid blue">
 
 <h2 align = "center"> 🖥 My AWS Projects</h2> 
