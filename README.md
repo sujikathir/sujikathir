@@ -97,7 +97,7 @@ The following links include detailed descriptions within each GitHub repository:
 
 | ⛁ [Document-QA-With-Google-Gemma](https://github.com/sujikathir/Document-Q-A-With-Google-Gemma) | [Resume-Application-Tracking-System-ATS-Using-Google-Gemini-Pro-Vision](https://github.com/sujikathir/Chat-With-multiple-Pdf-Documents-with-Langchain-and-Google-Gemini-Pro) | 
 | :-:| :-:| 
-[<img src = "https://github.com/sujikathir/Document-Q-A-With-Google-Gemma/blob/main/source/cover%20pic.jpg" height = 300 width = 500/>](https://github.com/sujikathir/Document-Q-A-With-Google-Gemma)| [<img src="https://github.com/sujikathir/Chat-With-multiple-Pdf-Documents-with-Langchain-and-Google-Gemini-Pro/blob/main/source/cover%20pic.pngg" height = 300 width = 500/>](https://github.com/sujikathir/Chat-With-multiple-Pdf-Documents-with-Langchain-and-Google-Gemini-Pro) |
+[<img src = "https://github.com/sujikathir/Document-Q-A-With-Google-Gemma/blob/main/source/cover%20pic.jpg" height = 300 width = 500/>](https://github.com/sujikathir/Document-Q-A-With-Google-Gemma)| [<img src="https://github.com/sujikathir/Chat-With-multiple-Pdf-Documents-with-Langchain-and-Google-Gemini-Pro/blob/main/source/cover%20pic.png" height = 300 width = 500/>](https://github.com/sujikathir/Chat-With-multiple-Pdf-Documents-with-Langchain-and-Google-Gemini-Pro) |
 
 <hr style="border:0.01px solid blue">
 
