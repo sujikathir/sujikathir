@@ -67,7 +67,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 The following links include detailed descriptions within each GitHub repository:
 
-| 🚀 [Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning](https://github.com/sujikathir/Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning))| 👨🏻‍💻 [HR-Job-Market-Analysis-using-Light-GBM](https://github.com/sujikathir/HR-Job-Market-Analysis-using-Light-GBM)| 
+| 🚀 [Predicting-Startup-outcomes-with-XGBoost](https://github.com/sujikathir/Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning))| 👨🏻‍💻 [HR-Job-Market-Analysis-using-Light-GBM](https://github.com/sujikathir/HR-Job-Market-Analysis-using-Light-GBM)| 
 | :-:| :-:| 
 | [<img src = "https://github.com/sujikathir/Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning/blob/main/images/cover%20page.jpg" width = 500 height = 300/>](https://github.com/sujikathir/Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning)| [<img src = "https://github.com/sujikathir/HR-Job-Market-Analysis-using-Light-GBM/blob/main/source/cover%20pic.jpg" width = 500 height = 300/>](https://github.com/sujikathir/HR-Job-Market-Analysis-using-Light-GBM)
 
@@ -95,7 +95,7 @@ The following links include detailed descriptions within each GitHub repository:
 | :-:| :-:| 
 [<img src = "https://github.com/sujikathir/Youtube-Video-Transcribe-Summarizer-LLM-App-With-Google-Gemini-Pro/blob/main/source/cover%20pic.png" height = 300 width = 500/>](https://github.com/sujikathir/Youtube-Video-Transcribe-Summarizer-LLM-App-With-Google-Gemini-Pro)| [<img src="https://github.com/sujikathir/Resume-Application-Tracking-System-ATS-Using-Google-Gemini-Pro-Vision/blob/main/source/cover%20pic.jpg" height = 300 width = 500/>](https://github.com/sujikathir/Resume-Application-Tracking-System-ATS-Using-Google-Gemini-Pro-Vision) |
 
-| ⛁ [Document-QA](https://github.com/sujikathir/Document-Q-A-With-Google-Gemma) | [Resume-Application-Tracking-System-ATS](https://github.com/sujikathir/Chat-With-multiple-Pdf-Documents-with-Langchain-and-Google-Gemini-Pro) | 
+| ⛁ [Document-QA](https://github.com/sujikathir/Document-Q-A-With-Google-Gemma) | [Chat-with-multiple-PDF-Documents](https://github.com/sujikathir/Chat-With-multiple-Pdf-Documents-with-Langchain-and-Google-Gemini-Pro) | 
 | :-:| :-:| 
 [<img src = "https://github.com/sujikathir/Document-Q-A-With-Google-Gemma/blob/main/source/cover%20pic.jpg" height = 300 width = 500/>](https://github.com/sujikathir/Document-Q-A-With-Google-Gemma)| [<img src="https://github.com/sujikathir/Chat-With-multiple-Pdf-Documents-with-Langchain-and-Google-Gemini-Pro/blob/main/source/cover%20pic.png" height = 300 width = 500/>](https://github.com/sujikathir/Chat-With-multiple-Pdf-Documents-with-Langchain-and-Google-Gemini-Pro) |
 
