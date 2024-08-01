@@ -79,7 +79,7 @@ The following links include detailed descriptions within each GitHub repository:
 
 <h2 align = "center"> 🖥 My Generative AI Projects </h2> 
 
-| ⛁ [AI-driven-Chatbot-for-enhanced-question-answering-system](https://github.com/sujikathir/Ai-driven-Chatbot-for-enhanced-question-answering-system/tree/main) | [Text-to-SQL-LLM-App-along-with-Quering-SQL-database-using-Gemini-Pro](https://github.com/sujikathir/Text-to-SQL-LLM-App-along-with-Quering-SQL-database-using-Gemini-Pro) | 
+| ⛁ [AI-driven-Chatbot-for-question-answering](https://github.com/sujikathir/Ai-driven-Chatbot-for-enhanced-question-answering-system/tree/main) | [Text-to-SQL-LLM-App-for-Quering-SQL](https://github.com/sujikathir/Text-to-SQL-LLM-App-along-with-Quering-SQL-database-using-Gemini-Pro) | 
 | :-:| :-:| 
 [<img src = "https://github.com/sujikathir/Ai-driven-Chatbot-for-enhanced-question-answering-system/blob/main/source/cover%20page.jpg" height = 300 width = 500/>](https://github.com/sujikathir/Ai-driven-Chatbot-for-enhanced-question-answering-system/tree/main)| [<img src="https://github.com/sujikathir/Text-to-SQL-LLM-App-along-with-Quering-SQL-database-using-Gemini-Pro/blob/main/source/cover%20pic.jpg" height = 300 width = 500/>](https://github.com/sujikathir/Text-to-SQL-LLM-App-along-with-Quering-SQL-database-using-Gemini-Pro) |
 
@@ -87,15 +87,15 @@ The following links include detailed descriptions within each GitHub repository:
 | :-:| :-:| 
 [<img src = "https://github.com/sujikathir/News-Reporter-AI-Agent-Using-CrewAI/blob/main/source/cover%20pic.jpg" height = 300 width = 500/>](https://github.com/sujikathir/News-Reporter-AI-Agent-Using-CrewAI)| [<img src="https://github.com/sujikathir/Finetuning-With-Custom-Data-Using-Google-Gemma/blob/main/source/cover%20pic.jpeg" height = 300 width = 500/>](https://github.com/sujikathir/Finetuning-With-Custom-Data-Using-Google-Gemma) |
 
-| ⛁ [Nutritionist-Generative-AI-Doctor-Using-Google-Gemini-Pro-Vision](https://github.com/sujikathir/Nutritionist-Generative-AI-Doctor-Using-Google-Gemini-Pro-Vision/tree/main) | [Multi-Language-Invoice-Extractor-using-Gemini-Pro-LLM-Model](https://github.com/sujikathir/Multi-Language-Invoice-Extractor-using-Gemini-Pro-LLM-Model) | 
+| ⛁ [Nutritionist-Generative-AI-Doctor](https://github.com/sujikathir/Nutritionist-Generative-AI-Doctor-Using-Google-Gemini-Pro-Vision/tree/main) | [Multi-Language-Invoice-Extractor](https://github.com/sujikathir/Multi-Language-Invoice-Extractor-using-Gemini-Pro-LLM-Model) | 
 | :-:| :-:| 
 [<img src = "https://github.com/sujikathir/Nutritionist-Generative-AI-Doctor-Using-Google-Gemini-Pro-Vision/blob/main/source/cover%20pic.png" height = 300 width = 500/>](https://github.com/sujikathir/Nutritionist-Generative-AI-Doctor-Using-Google-Gemini-Pro-Vision/tree/main)| [<img src="https://github.com/sujikathir/Multi-Language-Invoice-Extractor-using-Gemini-Pro-LLM-Model/blob/main/source/cover%20pic.jpg" height = 300 width = 500/>](https://github.com/sujikathir/Multi-Language-Invoice-Extractor-using-Gemini-Pro-LLM-Model) |
 
-| ⛁ [Youtube-Video-Transcribe-Summarizer-LLM-App-With-Google-Gemini-Pro](https://github.com/sujikathir/Youtube-Video-Transcribe-Summarizer-LLM-App-With-Google-Gemini-Pro) | [Resume-Application-Tracking-System-ATS-Using-Google-Gemini-Pro-Vision](https://github.com/sujikathir/Resume-Application-Tracking-System-ATS-Using-Google-Gemini-Pro-Vision) | 
+| ⛁ [Youtube-Video-Transcribe-Summarizer-LLM-App](https://github.com/sujikathir/Youtube-Video-Transcribe-Summarizer-LLM-App-With-Google-Gemini-Pro) | [Resume-Application-Tracking-System-ATS](https://github.com/sujikathir/Resume-Application-Tracking-System-ATS-Using-Google-Gemini-Pro-Vision) | 
 | :-:| :-:| 
 [<img src = "https://github.com/sujikathir/Youtube-Video-Transcribe-Summarizer-LLM-App-With-Google-Gemini-Pro/blob/main/source/cover%20pic.png" height = 300 width = 500/>](https://github.com/sujikathir/Youtube-Video-Transcribe-Summarizer-LLM-App-With-Google-Gemini-Pro)| [<img src="https://github.com/sujikathir/Resume-Application-Tracking-System-ATS-Using-Google-Gemini-Pro-Vision/blob/main/source/cover%20pic.jpg" height = 300 width = 500/>](https://github.com/sujikathir/Resume-Application-Tracking-System-ATS-Using-Google-Gemini-Pro-Vision) |
 
-| ⛁ [Document-QA-With-Google-Gemma](https://github.com/sujikathir/Document-Q-A-With-Google-Gemma) | [Resume-Application-Tracking-System-ATS-Using-Google-Gemini-Pro-Vision](https://github.com/sujikathir/Chat-With-multiple-Pdf-Documents-with-Langchain-and-Google-Gemini-Pro) | 
+| ⛁ [Document-QA](https://github.com/sujikathir/Document-Q-A-With-Google-Gemma) | [Resume-Application-Tracking-System-ATS](https://github.com/sujikathir/Chat-With-multiple-Pdf-Documents-with-Langchain-and-Google-Gemini-Pro) | 
 | :-:| :-:| 
 [<img src = "https://github.com/sujikathir/Document-Q-A-With-Google-Gemma/blob/main/source/cover%20pic.jpg" height = 300 width = 500/>](https://github.com/sujikathir/Document-Q-A-With-Google-Gemma)| [<img src="https://github.com/sujikathir/Chat-With-multiple-Pdf-Documents-with-Langchain-and-Google-Gemini-Pro/blob/main/source/cover%20pic.png" height = 300 width = 500/>](https://github.com/sujikathir/Chat-With-multiple-Pdf-Documents-with-Langchain-and-Google-Gemini-Pro) |
 
